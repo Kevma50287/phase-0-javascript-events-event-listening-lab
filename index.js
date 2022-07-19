@@ -1,3 +1,4 @@
+
 function addingEventListener() {
     const input = document.getElementById('button');
 
@@ -9,3 +10,4 @@ function addingEventListener() {
 }
 
 addingEventListener()
+
